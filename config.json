@@ -1,0 +1,22 @@
+{
+    "token" : "*",
+
+    "ytkey" : "*",
+
+    "geniusToken" : "*",
+    "apiseedsKey" : "*",
+
+    "prefix" : "!",
+
+    "homeGuildID" : "*",
+    "logChannelName" : "melody-log",
+
+    "ownerID": "*",
+
+    "privileged": 
+        [
+            {"comment": "Name"},
+            "ID"
+
+        ]
+}
